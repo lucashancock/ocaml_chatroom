@@ -1,0 +1,6 @@
+# dune init proj ocaml_chatroom
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/luke/.cache/dune/db
+# Workspace root: /Users/luke/Documents/ocaml-code/ocaml_chatroom
+# Auto-detected concurrency: 12
