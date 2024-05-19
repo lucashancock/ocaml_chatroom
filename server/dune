@@ -1,4 +1,6 @@
 (executable
  (public_name server)
  (name main)
- (libraries server lwt cohttp-lwt-unix websocket-lwt-unix))
+ (libraries server lwt cohttp-lwt-unix websocket-lwt-unix)
+ (preprocess
+  (pps lwt_ppx)))

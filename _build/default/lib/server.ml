@@ -1,4 +1,4 @@
-open Lwt.Infix
+open Lwt
 
 let handle_client (client_socket, client_address) =
   let client_input = Lwt_io.of_fd ~mode:Lwt_io.input client_socket in
