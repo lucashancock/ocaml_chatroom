@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (github lucashancock/reponame))
+ (github lucashancock/ocaml_chatroom))
 
 (authors "Lucas Hancock")
 
