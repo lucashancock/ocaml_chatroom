@@ -10,10 +10,11 @@ This project is an implementation of a simple chat server in OCaml using the Lwt
 
 ## Video Demonstration
 
-<video width="640" height="360" controls>
-  <source src="~/Desktop/chatroom-demo.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/lucashancock/ocaml_chatroom/assets/111306378/0814a3fb-08ea-4905-b856-f0186c9bdb05
+
+
+
 
 ## Purpose
 
