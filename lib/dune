@@ -1,3 +1,5 @@
 (library
  (name server)
- (libraries lwt cohttp-lwt-unix websocket-lwt-unix))
+ (libraries lwt cohttp-lwt-unix websocket-lwt-unix)
+ (preprocess
+  (pps lwt_ppx)))

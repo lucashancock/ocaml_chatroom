@@ -18,7 +18,7 @@
 (package
  (name ocaml_chatroom)
  (synopsis "Simple Ocaml chatroom with server and client")
- (description "Ocaml chatroom using cohttp, lwt, and websocket")
+ (description "Ocaml chatroom using lwt")
  (depends ocaml dune)
  (tags
   (topics "to describe" your project)))
