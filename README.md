@@ -10,11 +10,7 @@ This project is an implementation of a simple chat server in OCaml using the Lwt
 
 ## Video Demonstration
 
-
 https://github.com/lucashancock/ocaml_chatroom/assets/111306378/0814a3fb-08ea-4905-b856-f0186c9bdb05
-
-
-
 
 ## Purpose
 
